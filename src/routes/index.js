@@ -21,7 +21,6 @@ export default {
     require('./login').default,
     require('./register').default,
     require('./admin').default,
-    require('./api').default,
 
     // place new routes before...
     require('./content').default,
